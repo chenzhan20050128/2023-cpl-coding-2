@@ -1,0 +1,8 @@
+from sympy import *
+from sympy.abc import a,b,c,x,y
+from matplotlib import rc
+rc('text',usetex = True)
+init_printing()
+#高阶导
+diff(x*cos(x)*tan(log(x)), x, 3)
+print(123)
