@@ -50,7 +50,7 @@ int main()
     scanf("%d %d %d %d %d %d %d %d %d %d", &k, &va, &vb, &vc, &a, &b, &c, &a0, &b0, &c0);
     int sum;
     sum = solve(k, a, b, c);
-    //printf("%d\n", sum);
+    // printf("%d\n", sum);
     if (sum > 0)
     {
         printf("Yes");

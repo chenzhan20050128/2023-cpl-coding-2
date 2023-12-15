@@ -107,7 +107,7 @@ int main()
                 }
                 head_now = data[head_now][3];
             }
-            //print_array(now_node_allo, head);
+            // print_array(now_node_allo, head);
         }
         else
         {

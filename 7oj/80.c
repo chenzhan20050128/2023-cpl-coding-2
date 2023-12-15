@@ -132,15 +132,15 @@ int main()
             }
         }
     }
-    for (int i = 1; i <= n; i++)
-    {
-        for (int j = 1; j <= m; j++)
-        {
-            printf("%d ", sum[i][j]);
-        }
-        printf("\n");
-    }
-    printf("\n");
+    // for (int i = 1; i <= n; i++)
+    // {
+    //     for (int j = 1; j <= m; j++)
+    //     {
+    //         printf("%d ", sum[i][j]);
+    //     }
+    //     printf("\n");
+    // }
+    // printf("\n");
     printf("%d %d\n", maxvalue, answer_cnt);
     for (int i = 1; i <= answer_cnt; i++)
     {
