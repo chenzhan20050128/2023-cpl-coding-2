@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../Desktop/大一上学期/c语言程序设计基础"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"typeinfo": "c",
+			"string.h": "c",
+			"stdlib.h": "c"
+		}
+	}
+}

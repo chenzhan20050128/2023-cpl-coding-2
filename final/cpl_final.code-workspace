@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/cpl_final"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"sdl_image.h": "c",
+			"sdl_ttf.h": "c"
+		}
+	}
+}

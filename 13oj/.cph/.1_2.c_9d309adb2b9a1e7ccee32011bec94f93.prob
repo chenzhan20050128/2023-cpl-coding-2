@@ -1,0 +1,1 @@
+{"name":"Local: 1_2","url":"c:\\Users\\HP\\OneDrive\\文档\\GitHub\\2023-cpl-coding-2\\13oj\\1_2.c","tests":[{"id":1703846558157,"input":"5 5\n1 2\n2 3\n4 5\n5 4\n5 3","output":"0\n0\n3 1 2\n4 5\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\OneDrive\\文档\\GitHub\\2023-cpl-coding-2\\13oj\\1_2.c","group":"local","local":true}
